@@ -28,5 +28,4 @@ The dataset used in this project is the Spam SMS dataset sourced from Kaggle. Th
 Kaggle - Spam SMS Dataset
 ## Columns:
 v1: The label (spam or ham).
-
 v2: The message text.
